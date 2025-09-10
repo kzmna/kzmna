@@ -6,7 +6,7 @@
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kzmna.a@yandex.ru) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kzmna02@gmail.com)
 
-## 📖 Courses
+## 📖 Courses:
 [![Stepik](https://img.shields.io/badge/Stepik-000000?style=for-the-badge&logo=stepik&logoColor=white)](https://stepik.org/users/79674876/profile)
 
 ## 💻 Tech Stack:
