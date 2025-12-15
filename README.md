@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Anna ![hi](https://www.animatedimages.org/data/media/209/animated-cat-image-0421.gif)
-👩‍🎓 Studying [AI in industry](https://abit.itmo.ru/en/program/master/ai_industry) at ITMO University, Saint-Petersburg<br/><br>🌱 Currently learning Frontend and Machine Learning<br/>
+👩‍🎓 Studying [AI in industry](https://abit.itmo.ru/en/program/master/ai_industry) at ITMO University, Saint-Petersburg<br/><br>🌱 Currently learning Backend and Machine Learning<br/>
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kzmna_a)
