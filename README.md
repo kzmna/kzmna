@@ -2,9 +2,9 @@
 👩‍🎓 Studying [AI in industry](https://abit.itmo.ru/en/program/master/ai_industry) at ITMO University, Saint-Petersburg<br/><br>🌱 Currently learning Backend and Machine Learning<br/>
 
 ## 🌐 Socials:
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kzmna_a)
-[![yandex mail](https://img.shields.io/badge/YandexMail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kzmna.a@yandex.ru?cc=&subject=%D0%9F%D0%B8%D1%81%D1%8C%D0%BC%D0%BE%20%D1%81%20GitHub&body=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%21) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kzmna02@gmail.com?cc=&subject=%D0%9F%D0%B8%D1%81%D1%8C%D0%BC%D0%BE%20%D1%81%20GitHub&body=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%21)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kzmna_a) <br/>
+[![yandex mail](https://img.shields.io/badge/kzmna.a@yandex.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kzmna.a@yandex.ru?cc=&subject=%D0%9F%D0%B8%D1%81%D1%8C%D0%BC%D0%BE%20%D1%81%20GitHub&body=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%21) <br/>
+[![Gmail](https://img.shields.io/badge/kzmna02@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kzmna02@gmail.com?cc=&subject=%D0%9F%D0%B8%D1%81%D1%8C%D0%BC%D0%BE%20%D1%81%20GitHub&body=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%21)
 
 ## 📖 Courses:
 [![Stepik](https://img.shields.io/badge/Stepik-000000?style=for-the-badge&logo=stepik&logoColor=white)](https://stepik.org/users/79674876/profile)
