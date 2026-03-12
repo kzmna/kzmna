@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Anna ![hi](https://www.animatedimages.org/data/media/209/animated-cat-image-0421.gif)
+# 💫 Hi, I'm Anna ![hi](https://www.picgifs.com/mini-graphics/mini-graphics/cats/mini-graphics-cats-314495.gif)
 👩‍🎓 Studying [AI in industry](https://abit.itmo.ru/en/program/master/ai_industry) at ITMO University, Saint-Petersburg<br/><br>🌱 Currently learning Backend and Machine Learning<br/>
 
 ## 🌐 Socials:
