@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Anna ![hi](https://www.picgifs.com/mini-graphics/mini-graphics/cats/mini-graphics-cats-314495.gif)
-👩‍🎓 Studying [AI in industry](https://abit.itmo.ru/en/program/master/ai_industry) at ITMO University, Saint-Petersburg<br/><br>🌱 Currently learning MLOps and Machine Learning<br/>
+👩‍🎓 Graduated from [AI in industry](https://abit.itmo.ru/en/program/master/ai_industry), ITMO University, Saint-Petersburg<br/><br>🌱 Currently learning MLOps and Machine Learning<br/>
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kzmna_a) <br/>
